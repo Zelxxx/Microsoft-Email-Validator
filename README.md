@@ -10,3 +10,9 @@ Python Requests!
 
 Change "emails.txt" to your desired list of emails!
 Start the script by clicking Run in Visual Studio Code!
+
+# Contact 
+
+Discord: Zelx#0001
+Telegram: Zelxxxxxxx
+Twitter: Zelxxx_
