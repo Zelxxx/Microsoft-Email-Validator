@@ -9,6 +9,7 @@ Python Requests!
 # Setup
 
 Change "emails.txt" to your desired list of emails!
+
 Start the script by clicking Run in Visual Studio Code!
 
 # Contact 
